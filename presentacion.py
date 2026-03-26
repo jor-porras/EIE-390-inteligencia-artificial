@@ -1,1 +1,1 @@
-print("en esta rama agregaremos todo los codigos que se encuentren")
+print("en esta rama agregaremos todo los codigos que se encuentren para ejercicios")
